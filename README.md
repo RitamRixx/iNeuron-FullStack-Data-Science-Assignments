@@ -1,2 +1,2 @@
-# iNeuron Full Stack Data Science
+# iNeuron Full Stack Data Science Assignments
 
