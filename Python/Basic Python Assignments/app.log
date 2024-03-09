@@ -1,0 +1,2 @@
+2024-03-09 13:11:47,245 - INFO - Hello, World!
+2024-03-09 13:14:33,870 - ERROR - An exception occurred: ZeroDivisionError - 2024-03-09 13:14:33.870392
